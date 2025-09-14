@@ -430,7 +430,6 @@ TEST(ListRemove, AtARRSIZEPlusOne)
 TEST(ListRemove, SongOfBackAndFront)
 {
 	ULListStr list;
-
 	list.push_back("oldfront");
 	list.push_back("oldback");
 
